@@ -31,6 +31,6 @@
 ## Follow Me
 
 - [LinkedIn](https://www.linkedin.com/in/micka%C3%ABl-ranivoarison-866168282/)
-- facebook: [@yourprofile](https://web.facebook.com/mickael.ranivoarison)
+- facebook: [Mickael Ranivoarison](https://web.facebook.com/mickael.ranivoarison)
 
 Thank you for visiting my GitHub profile!
