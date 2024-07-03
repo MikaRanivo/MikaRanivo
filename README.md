@@ -9,8 +9,8 @@
   - Projects involving RESTful API development
 - 📫 How to reach me:
   - Email: mikaranivoarison@gmail.com
-  - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-  - facebook: [@yourprofile](https://web.facebook.com/mickael.ranivoarison)
+  - LinkedIn: [LinkedIn](https://www.linkedin.com/in/micka%C3%ABl-ranivoarison-866168282/)
+  - facebook: [Mickael Ranivoarison](https://web.facebook.com/mickael.ranivoarison)
 
 ## Experience
 
